@@ -5,16 +5,15 @@ The company wanted to decide whether to focus on its mobile app experience or it
 * Done exploratory data analysis 
 * Fitted linear regression model  
 
-------------------------------
-Performance measure :
-------------------------------
+* Performance measure :
+
   MAE:   8.391285331262312
   MSE:   111.79441497152149
   RMSE:  10.573287803305153
 
--------------------------------
-Coeffecient of features :
--------------------------------
+
+* Coeffecient of features :
+
                       Coeffecient
 Avg. Session Length     26.007496
 Time on App             38.773889
